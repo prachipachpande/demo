@@ -628,7 +628,7 @@ hr {
 
 <center style="text-align:center;color:#9F9F9F;font-weight: 600;font-family: lato,sans-serif;font-size: 15px;">Product Name:</center>
 <p style="text-align:center;font-size: 13px;color:#838383;">
-Using lorem ipsum to focus attention on graphic elements in a webpage design proposal
+Fill out basic details Fill out basic details Fill out basic details
 </p>
 
 <center style="text-align:center;color:#9F9F9F;font-weight: 600;font-family: lato,sans-serif;font-size: 15px;">Keywords:</center>
